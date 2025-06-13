@@ -1,1 +1,1 @@
-SEMO 2024-2025 CCDC Repo
+PURPOSE: CCDC for TEAM-LSECC - Kudos to @Semo for main github branch.
